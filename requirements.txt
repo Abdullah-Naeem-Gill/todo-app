@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+bcrypt
+python-jose
+pydantic
+pytest
